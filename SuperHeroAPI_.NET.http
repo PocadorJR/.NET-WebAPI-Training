@@ -1,0 +1,6 @@
+@SuperHeroAPI_.NET_HostAddress = http://localhost:5166
+
+GET {{SuperHeroAPI_.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
